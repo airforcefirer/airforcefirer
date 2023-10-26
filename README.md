@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**airforcefirer/airforcefirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on National Taiwan University Hospital
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,4 +22,4 @@ I also developed a hospitalization course recording system, which records almost
 I developed a drawing module that can be used by various systems in the hospital, including the functions of taking pictures and uploading images from imaging equipment.
 
 I have established a voice function, which is currently used in the operating room and mobile devices. I am currently recording the voice recording of the first aid process.
--->
+
